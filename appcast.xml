@@ -15,7 +15,7 @@
 <li>Старая запущенная копия закрывается сама, вручную ничего удалять не нужно</li>
 </ul>
 ]]></description>
-            <enclosure url="https://northlightapps.github.io/notchisland/downloads/NotchIsland.dmg" length="3059930" type="application/octet-stream" sparkle:edSignature="zVaAk7upNLDSOQnoR8EkabPjfc8L23X9mYp3tIQzH6EecJB6cwn/0yVU9KTyggc+B9IzuHuAtSqHqMgdL3dKBw=="/>
+            <enclosure url="https://github.com/NorthlightApps/notchisland/releases/download/v1.3/NotchIsland.dmg" length="3059930" type="application/octet-stream" sparkle:edSignature="zVaAk7upNLDSOQnoR8EkabPjfc8L23X9mYp3tIQzH6EecJB6cwn/0yVU9KTyggc+B9IzuHuAtSqHqMgdL3dKBw=="/>
         </item>
         <item>
             <title>1.2</title>
