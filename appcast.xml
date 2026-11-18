@@ -3,6 +3,22 @@
     <channel>
         <title>NotchIsland</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Tue, 17 Nov 2026 13:22:13 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Что нового в 1.2</h3>
+<ul>
+<li>Чёлка показывает музыку из любого плеера: SoundCloud и YouTube в браузере, Telegram, Яндекс Музыка, VK и другие — не только Музыка и Spotify</li>
+<li>Кнопки «пауза» и «дальше» работают для любого плеера</li>
+<li>Нажми на обложку — откроется приложение или браузер, где играет музыка</li>
+</ul>
+]]></description>
+            <enclosure url="https://northlightapps.github.io/notchisland/downloads/NotchIsland.dmg" length="3051901" type="application/octet-stream" sparkle:edSignature="MUb7kihQTGOp2wbuVc5gkDMoQvpJe6TLXz9wu+A3Z1oLeE90bmc+HtjEEeWYOONWZLFvcPNda9SmE7a6TaXHCw=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Tue, 17 Nov 2026 13:22:13 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
