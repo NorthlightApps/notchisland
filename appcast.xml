@@ -3,6 +3,21 @@
     <channel>
         <title>NotchIsland</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Tue, 17 Nov 2026 13:22:13 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>Что нового в 1.3.1</h3>
+<ul>
+<li>Если после переезда в «Программы» новая копия не запустилась, NotchIsland больше не закрывается, а продолжает работать</li>
+<li>При первом запуске открываются настройки — сразу видно, что приложение работает</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/NorthlightApps/notchisland/releases/download/v1.3.1/NotchIsland.dmg" length="3063137" type="application/octet-stream" sparkle:edSignature="uK+wTw2hVHtwxHLSyl+AnVlGPfCTptE8rYCFR0Yk2twuvKjuoxF5GmQTu7ygDvd3ibLzd1XyTThT81RKp0dWDg=="/>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Tue, 17 Nov 2026 13:22:13 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -32,21 +47,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://northlightapps.github.io/notchisland/downloads/NotchIsland.dmg" length="3051901" type="application/octet-stream" sparkle:edSignature="MUb7kihQTGOp2wbuVc5gkDMoQvpJe6TLXz9wu+A3Z1oLeE90bmc+HtjEEeWYOONWZLFvcPNda9SmE7a6TaXHCw=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Tue, 17 Nov 2026 13:22:13 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>Что нового в 1.1</h3>
-<ul>
-<li>Автообновления — новые версии теперь приходят сами</li>
-<li>Нажми на обложку песни в чёлке — откроется Музыка или Spotify</li>
-</ul>
-]]></description>
-            <enclosure url="https://northlightapps.github.io/notchisland/downloads/NotchIsland.dmg" length="3173900" type="application/octet-stream" sparkle:edSignature="zD1PYxRT6LQHz1gNEwJo9G257st73Ab57WPu0ncAkl1JfYlSj7vl6UGc1Bb4DhGWn7iy8ujx/DLBpUvZmltyBw=="/>
         </item>
     </channel>
 </rss>
